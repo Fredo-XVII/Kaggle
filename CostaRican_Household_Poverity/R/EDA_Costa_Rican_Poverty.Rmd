@@ -22,4 +22,21 @@ knitr::opts_chunk$set(cache = TRUE, cache.path = "cache/", fig.width = .67, fig.
 [GitHub](https://github.com/Fredo-XVII/Kaggle/tree/master/CostaRican_Household_Poverity) - Github repo for the project.
 ---
 
+# {.tabset}
+
+## Home
+```{r}
+
+```
+
+
+## Section #2
+
+
+# {.tabset}
+
+## HOME 2
+
+
+
 
