@@ -1,0 +1,25 @@
+---
+title: "EDA Costa Rican Poverty"
+author: Alfredo.G.Marquez
+date: Aug, 2018
+output:
+  html_notebook:
+    toc: TRUE
+    toc_depth: 4
+    toc_float: TRUE 
+      #collapsed: TRUE
+      #smooth_scroll: TRUE
+    code_folding: hide
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE, cache.path = "cache/", fig.width = .67, fig.height = 20, dplyr.width = Inf,
+                      message = FALSE, warning = FALSE)
+
+```
+
+[GitHub](https://github.com/Fredo-XVII/Kaggle/tree/master/CostaRican_Household_Poverity) - Github repo for the project.
+---
+
+

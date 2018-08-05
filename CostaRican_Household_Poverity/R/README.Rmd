@@ -1,0 +1,13 @@
+---
+title: "Costa Rican Poverty"
+output: 
+  github_document:
+    toc: TRUE
+    toc_depth: 4
+---
+
+```{r setup,}
+
+```
+
+# HOME
